@@ -51,6 +51,7 @@ Where:
 ### Input:
 
 Enter the initial velocity (m/s): 20
+
 Enter the launch angle (degrees): 45
 
 
@@ -58,9 +59,13 @@ Enter the launch angle (degrees): 45
 
 --- Projectile Motion Results ---
 Initial Velocity: 20.00 m/s
+
 Launch Angle: 45.00 degrees
+
 Time of Flight: 2.89 seconds
+
 Maximum Height: 10.20 meters
+
 Horizontal Range: 40.82 meters
 
 
