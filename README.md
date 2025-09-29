@@ -58,6 +58,7 @@ Enter the launch angle (degrees): 45
 ### Output:
 
 --- Projectile Motion Results ---
+
 Initial Velocity: 20.00 m/s
 
 Launch Angle: 45.00 degrees
