@@ -13,23 +13,17 @@ Projectile motion refers to the curved path that an object follows when it is la
 The main physics formulas applied in this program are:
 
 - **Time of Flight (T):**
-  \[
-  T = \frac{2u \sin\theta}{g}
-  \]
+  T=(2u sin⁡θ )/g
 
 - **Maximum Height (H):**
-  \[
-  H = \frac{u^2 \sin^2\theta}{2g}
-  \]
+  H=(u^2  sin^2⁡θ)/2g
 
 - **Horizontal Range (R):**
-  \[
-  R = \frac{u^2 \sin(2\theta)}{g}
-  \]
+  R=(u^2  sin⁡〖(2θ)〗)/g
 
 Where:  
 - \( u \) = initial velocity (m/s)  
-- \( \theta \) = launch angle (degrees)  
+- \( θ \) = launch angle (degrees)  
 - \( g \) = gravitational acceleration (9.8 m/s²)  
 
 ---
