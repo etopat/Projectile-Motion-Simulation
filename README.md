@@ -16,10 +16,10 @@ The main physics formulas applied in this program are:
   T=(2u sin⁡θ )/g
 
 - **Maximum Height (H):**
-  H=(u^2  sin^2⁡θ)/2g
+  H=(u^2  sin^2 ⁡θ)/2g
 
 - **Horizontal Range (R):**
-  R=(u^2  sin⁡〖(2θ)〗)/g
+  R=(u^2  sin⁡(2θ))/g
 
 Where:  
 - \( u \) = initial velocity (m/s)  
